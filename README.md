@@ -32,6 +32,10 @@ dt_assignment/
 5. **`code/`** — the rubric expressed as code, plus the exact AI prompts and negative prompts I used as anti-hallucination guardrails.
 
 ---
+## 🧠 Thought Process (Hand-drawn Sketch)
+
+![Thought Process](./THOUGHT PROCESS HAND DRAWN.pdf)
+---
 
 ## Headline numbers
 
