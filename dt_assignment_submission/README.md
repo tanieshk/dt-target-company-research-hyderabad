@@ -64,33 +64,6 @@ dt_assignment/
 | 5 | 1000-company proposal (full write-up) | GitHub → link on Internshala | ✅ `docs/PartB_1000_company_proposal.md` |
 | 6 | **Hand-drawn diagram of the 1000-company plan** | **Photo in Internshala chat** | **⚠️ TO DO BY APPLICANT — see below** |
 
-### ⚠️ Hand-drawn diagram (mandatory, applicant-only step)
-
-The brief is unambiguous on this: the diagram **must** be drawn by hand on paper, photographed, and sent on Internshala chat. A digitally-generated diagram will cause the application to be rejected without review.
-
-**What to draw on paper (10 minutes):**
-
-The 1000-company funnel from `docs/PartB_1000_company_proposal.md`:
-
-```
-  Discovery (~7,000)
-       │
-       ▼
-  Auto-dedup + auto-disqualify (~5,000)
-       │
-       ▼
-  AI-qualify (Claude/Gemini, with source-URL guardrail) (~3,000)
-       │
-       ▼
-  Human verify, 200/day × 9 days (~1,800)
-       │
-       ▼
-  Rank by Federer score → Top 1,000  (+ 800 buffer)
-```
-
-Add the **week-by-week swimlanes** (Wk 1 source / Wk 2 AI-qualify / Wk 3 human verify / Wk 4 rank+deliver), the **tools** (MCA, DSIR, CPHI, USFDA, LinkedIn), and the **quality checkpoints** (mandatory source URL; promoter-still-in-seat scan; cross-source rule). It does not need to be beautiful — it needs to show the thinking.
-
----
 
 ## Author's note
 
