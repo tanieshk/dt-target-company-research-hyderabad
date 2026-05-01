@@ -1,1 +1,0 @@
-# dt-target-company-research-hyderabad
