@@ -34,7 +34,7 @@ dt_assignment/
 ---
 ## 🧠 Thought Process (Hand-drawn Sketch)
 
-![Thought Process](./THOUGHT PROCESS HAND DRAWN.jpeg)
+![Thought Process](./THOUGHT_PROCESS_HAND_DRAWN.jpeg)
 ---
 
 ## Headline numbers
