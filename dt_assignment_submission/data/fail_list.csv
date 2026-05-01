@@ -1,0 +1,38 @@
+Company,Website,Why Researched,Fail Reason,Disqualifier Type
+Suven Pharma,suvenpharm.com,Hyderabad CDMO with strong technical promoter (founder Dr. Jasti V. Ramanaiah),Now Advent-owned (PE-controlled). Decision-making has shifted from promoter to institutional investor.,PE-controlled
+Aragen Life Sciences (formerly GVK BIO),aragen.com,"Hyderabad CRDMO, ~Rs.6,000Cr revenue, USFDA-approved",PE-controlled (Goldman Sachs majority); revenue >> Rs.500Cr; primarily a CRO/CDMO services company not a manufacturer of own products,"PE-controlled + Revenue >Rs.500Cr + Service company"
+Optimus Drugs,optimuspharma.com,"Hyderabad API maker, founded 2004 by D. Srinivasa Reddy",Acquired by PAG (PE) in 2022 for Rs.2,000Cr — promoter dynamic gone. FY25 revenue ~Rs.771Cr — also exceeds ceiling.,PE-controlled + Revenue >Rs.500Cr
+Vasant Chemicals,vasantchemicals.com,Hyderabad specialty chemicals + pharma intermediates,"Acquired by ICIG/WeylChem (Germany) in 2024 — now MNC subsidiary, no longer founder-driven.",Subsidiary of large group / Acquired
+Novopor (formerly Sipra Labs),novopor.com,Hyderabad performance/specialty chemicals,Bain Capital portfolio company since 2024 — PE-controlled.,PE-controlled
+Bharat Biotech,bharatbiotech.com,Hyderabad biotech founder Dr. Krishna Ella; vaccines,"FY25 revenue Rs.1,463Cr — far exceeds Rs.500Cr ceiling. Also primarily generic/regulated vaccines (auto-disqualify per ICP).",Revenue >Rs.500Cr + Generic pharma class
+Indian Immunologicals (IIL),indimmune.com,Hyderabad veterinary biologics + vaccines,Wholly-owned subsidiary of NDDB (a quasi-government cooperative). Not promoter-driven.,Subsidiary of large group
+Granules India,granulesindia.com,Hyderabad pharma founded by Krishna Prasad Chigurupati,"Listed; FY revenue >Rs.4,500Cr — vastly exceeds ceiling. Also primarily generics/bulk APIs.",Revenue >Rs.500Cr + Generic pharma
+Laurus Labs,lauruslabs.com,Hyderabad CDMO + APIs founded by Dr. Satyanarayana Chava,"Listed; FY revenue ~Rs.5,500Cr — vastly exceeds ceiling. Public-equity-controlled.",Revenue >Rs.500Cr + Public-equity controlled
+Divi's Laboratories,divislaboratories.com,"Hyderabad pharma giant, founder Dr. Murali Divi",Listed mega-cap; revenue >Rs.9,000Cr; promoter still in seat but well outside ICP band.,Revenue >Rs.500Cr
+Vivimed Labs,vivimedlabs.com,Hyderabad specialty chemicals + pharma,Already sold off specialty-chemical division to Clariant in 2017; current operations primarily generics formulations.,Sold key division / Generic pharma
+JC Biotech,jcbiotechgroup.com,"Hyderabad fermentation API maker, sold to Advanced Enzymes",Acquired by Advanced Enzyme Technologies in 2016 — now subsidiary.,Subsidiary
+Aurigene Pharmaceutical Services,aurigeneservices.com,Hyderabad CRDMO,Wholly-owned subsidiary of Dr. Reddy's. Not promoter-driven.,Subsidiary of large group
+Sai Life Sciences,sailife.com,Hyderabad-founded CDMO,"PE-controlled (TPG); listed in 2024-25; revenue >Rs.1,400Cr — exceeds ceiling.",PE-controlled + Revenue >Rs.500Cr
+Inogent Laboratories,inogent.com,Hyderabad pharma R&D,Subsidiary of GVK BIO / Aragen — not independent.,Subsidiary
+Megafine Pharma,megafinepharma.com,Pharma intermediates,"Motilal Oswal Alternates took majority stake (Rs.460Cr) in 2025 — PE-controlled. Also primarily Mumbai/Nashik, not Hyderabad operational.",PE-controlled + Wrong city
+Synthokem Labs,synthokemlabs.com,Hyderabad pharma intermediates founded by Jayant Tagore,"Founder-led; fits criteria — but FY revenue trajectory inconsistent in public filings, deeper diligence needed before active outreach.",Held in 'research-deeper' bucket — not in 25 to keep evidence quality
+Konar Organics,konarorganics.com,Hyderabad pharma intermediates since 1988,"Founder-led, FY25 revenue ~Rs.23Cr (-3% YoY) — flat/declining; weak growth signals.",Stagnant — fails C6
+Vasudha Pharma Chem,vasudhapharma.com,Hyderabad API + custom synthesis,FY25 revenue ~Rs.1,170Cr — exceeds Rs.500Cr ceiling. Listed in '25' as B-band borderline reference.,(Included as borderline reference in main list)
+Sawin Biomedicals,sawinbio.com,Hyderabad IVD reagents + medical devices,"Founded only Jan 2023 — too early; minimal operating history, no growth signals yet.",Too early-stage
+Vimta Labs,vimta.com,Hyderabad analytical / CRO,Primarily a CRO + testing lab — auto-disqualify per ICP (service company not manufacturer).,Service company / CRO
+Jeevan Scientific Technology,jeevanscientific.com,Hyderabad clinical research,Pure CRO / clinical research services — service company.,CRO / Service company
+Rushi Pharma,rushipharma.com,Hyderabad enzymes + intermediates,Primarily a US-front trading + sourcing house. Not a clear manufacturing operation.,Trader / Service-style
+Herbochem,herbochem.com,Hyderabad herbal extracts,"Mostly trading + supplier role, modest manufacturing depth.",Trader-leaning
+Sambi Pharma,sambipharma.com,Hyderabad CRAMS,"Limited public technical-DM evidence, scale and operations unclear.",Insufficient evidence — re-research
+Spansules Pharma,spansules.com,Hyderabad pharma,Founder Dr. G. Venkata Subbarao technical — fits — but recent ownership/structure data is unclear; flagged for deeper diligence.,Hold for deeper diligence
+Heterocyclics Inc.,heterocyclics.com,Catalog company,"This is the US-incorporated catalog arm; the Indian operating entity is Dr. Jagath Reddy's Heterocyclics Pvt Ltd (already in the 25).",Duplicate of #20 in main list
+Suven Life Sciences,suven.com,Hyderabad pharma R&D,"Founder-led + scientist-led — but listed, market cap and revenue trajectory put it well above ICP band; also primarily a discovery research company.",Revenue / structure mismatch
+Saharsh Davuluri / Neuland Labs,neulandlabs.com,Hyderabad CDMO peptides,"Listed; FY revenue >Rs.1,500Cr — exceeds ceiling. Otherwise textbook Federer (founder-led, technical, fast-growing).","Revenue >Rs.500Cr (Federer 'graduate')"
+SMS Lifesciences,smslifesciences.com,Hyderabad APIs,"Sister entity of SMS Pharmaceuticals — verify before treating as independent. Federer-class on most criteria.",Hold for relationship verification
+Spiro Organics (catalysts),spiroorganics.com,Hyderabad ligands & catalysts,(Included in main list as #21 — flagged here for cross-reference: very small revenue (~Rs.41L FY24) was the borderline reason.),(In main list as borderline)
+Chemtatva / Chiral Solutions,chemtatva.com,Hyderabad chiral catalysts,Joint venture investment of US-based Cambridge Isotope Laboratories — likely no longer fully promoter-driven.,JV / Mixed control
+Botanic Healthcare,botanichealthcare.net,(In main list — flagged here for transparency: recently raised Rs.250Cr in 2024.),"Funding round was a minority growth-equity investment, founder retains operational control. Decision: include with caveat.",(Included with caveat)
+Amspro Biotech,amsprobiotech.com,Hyderabad probiotics + enzymes,"Limited public revenue + DM data, scale appears very small.",Insufficient evidence
+Ratnam Solutions,ratnamsolutions.com,Hyderabad enzymes,"Limited public depth on R&D and growth signals.",Weak growth signals
+Bionary Biotech,linkedin/bionarybiotech,Hyderabad fermentation supplies,Sells specialized products to fermentation industries — looks more like a trader/distributor than a manufacturer.,Trader-leaning
+NACL Industries,naclind.com,Telangana agrochemicals,Listed; revenue ~Rs.1,800Cr — exceeds ceiling.,Revenue >Rs.500Cr
